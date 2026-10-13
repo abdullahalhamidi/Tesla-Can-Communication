@@ -241,5 +241,14 @@ remote · then DLC and payload.
 
 ## License
 
-> Add your chosen license here (e.g. MIT). The bundled `Model3CAN.dbc` is MIT
-> (Josh Wardell) — keep `Model3CAN_LICENSE.txt` with it.
+This project is licensed under the **[PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/)**.
+
+You're free to use, modify, and share it for **any noncommercial purpose** —
+personal projects, hobby, research, education, and similar. **Commercial use is
+not permitted** under this license; contact the author if you need a commercial
+arrangement. The full terms are in the [`LICENSE`](LICENSE) file.
+
+> **Note on the bundled DBC:** `Model3CAN.dbc` is a third-party file under its
+> own **MIT** license (Josh Wardell), which *does* permit commercial use. The
+> noncommercial terms above apply to this project's own code (firmware and PC
+> tool), not to that DBC. Keep `Model3CAN_LICENSE.txt` alongside it.
